@@ -6,8 +6,8 @@ const secrets = new Secrets({
   GIT_HOSTNAME: "https://github.com",
   OAUTH_TOKEN_PATH: "/login/oauth/access_token",
   OAUTH_AUTHORIZE_PATH: "/login/oauth/authorize",
-  OAUTH_CLIENT_ID: "88557f3b6a6600a0dfb7",
-  OAUTH_CLIENT_SECRET: "083f4a97f47433c9df4aeac01793084a176799e5",
+  OAUTH_CLIENT_ID: "**REMOVED**",
+  OAUTH_CLIENT_SECRET: "**REMOVED**",
   REDIRECT_URL: "http://localhost:3000/callback",
   OAUTH_SCOPES: "repo,user",
 });
